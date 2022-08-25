@@ -575,7 +575,7 @@ function Body() {
                 </RateChartNumber>
                 </RateChartTextWrapper>
                 <Tether>
-                    22,783.63 USDT
+                    22,783.63 TEST
                 </Tether>
                 <Krw>
                     30,248,324 KRW
@@ -592,7 +592,7 @@ function Body() {
                 </RateChartNumber>
                 </RateChartTextWrapper>
                 <Tether>
-                    1,612.17 USDT
+                    1,612.17 TEST
                 </Tether>
                 <Krw>
                     2,134,038 KRW
@@ -609,7 +609,7 @@ function Body() {
                 </RateChartNumber>
                 </RateChartTextWrapper>
                 <Tether>
-                    7.63 USDT
+                    7.63 TEST
                 </Tether>
                 <Krw>
                     7,617 KRW
@@ -625,7 +625,7 @@ function Body() {
                 </RateChartNumber>
                 </RateChartTextWrapper>
                 <Tether>
-                    2.13 USDT
+                    2.13 TEST
                 </Tether>
                 <Krw>
                     2,771 KRW
@@ -641,7 +641,7 @@ function Body() {
                 </RateChartNumber>
                 </RateChartTextWrapper>
                 <Tether>
-                    0.363 USDT
+                    0.363 TEST
                 </Tether>
                 <Krw>
                     480 KRW
