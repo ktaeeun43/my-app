@@ -559,7 +559,7 @@ function Body() {
             </RateChartTitle>
             <RateChartTitleBox>
                 <RateChartTitleBoxInText>
-                USDT 마켓
+                TEST 마켓
                 </RateChartTitleBoxInText>
             </RateChartTitleBox>
             <RateChartLine/>
